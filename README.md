@@ -12,7 +12,11 @@ Next, we check if the user's choice is greater than the number of unique element
 
 Note that this script assumes that the user will enter a positive integer for the choice. If the user enters a non-integer or a negative number, the program will raise a ValueError exception. You could add error handling code to catch this case and print a more helpful error message.
 
+- Check PEP8 standards 
 
-
-
-
+* Replace "path/to/your/folder" with the actual path to the folder you want to search.
+* Save the script to a file with a .py extension.
+* Open a command prompt or terminal window.
+* Navigate to the directory where the script is saved.
+* Run the script by entering python scriptname.py (replace "scriptname" with the name of the file you saved the script to).
+* The script will output whether all Python files in the folder and its subfolders conform to PEP8 standards, excluding the E501 standard, and if not, it will list the errors. The script will exit with a status code of 1 if there were errors, which you can use in automation scripts.
