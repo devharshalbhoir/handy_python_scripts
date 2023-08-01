@@ -75,3 +75,5 @@ if __name__ == '__main__':
     sort_move_files(file_path, operation)
     # G:\BKP\work\Walplast\Desktop\Documentation
     # G:\BKP\work\Walplast\Documents\Download_BKP\attachments
+    # C:\Users\ADMIN\Downloads
+    # C:\HRSHL\Docs\Downloads_bkp
