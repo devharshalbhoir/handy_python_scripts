@@ -20,9 +20,3 @@ Note that this script assumes that the user will enter a positive integer for th
 * Navigate to the directory where the script is saved.
 * Run the script by entering python scriptname.py (replace "scriptname" with the name of the file you saved the script to).
 * The script will output whether all Python files in the folder and its subfolders conform to PEP8 standards, excluding the E501 standard, and if not, it will list the errors. The script will exit with a status code of 1 if there were errors, which you can use in automation scripts.
-
-
-
-
-
-
