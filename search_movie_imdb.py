@@ -67,7 +67,7 @@ def main(directory, log_file):
             logging.info("Rating: %s", rating)
             logging.info("Summary: %s", summary)
         else:
-            logging.info("No movie found with a similar name on IMDb Platform")
+            logging.info("No movie found with a similar name on IMDb Platform.")
 
 
 if __name__ == "__main__":
